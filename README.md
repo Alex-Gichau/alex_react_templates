@@ -166,12 +166,43 @@ This repository contains a collection of React components for various web platfo
 - **Project Link:** [Multistep Registration Form](https://www.instagram.com/reel/Cr3nrQptEd0/?igshid=NjIwNzIyMDk2Mg==)
 - **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
+## Weather App
+- **Project Link:** [Weather App](https://www.instagram.com/p/Cw-Cp3QvMBO/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## CSS Page Loaders
+- **Project Link:** [CSS Page Loaders](https://uiverse.io/loaders)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Navbars
+- **Project Link:** [Navbars](https://www.instagram.com/p/CxK9Iu_hQy-/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Sidebars
+- **Project Link:** [Sidebars](https://www.instagram.com/p/Cx5Rwr9hqBo/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+- **Project Link:** [Sidebars](https://www.instagram.com/p/CvXBvb4t9V0/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Search Filter
+- **Project Link:** [Search Filter](https://www.instagram.com/p/CxvFuEeP2ZU/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Responsive Layout in CSS
+- **Project Link:** [Responsive Layout in CSS](https://www.instagram.com/reel/Cx-S0Oft8qD/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Cursor
+- **Project Link:** [Animated Cursor](https://www.instagram.com/p/CyFMzyZr8yg/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Hover Effect Colored Text
+- **Project Link:** [Hover Effect Colored Text](https://www.instagram.com/p/CyFUGJfr1gy/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Footer Social Media
+- **Project Link:** [Footer Social Media](https://www.instagram.com/p/CyGKSlfLdqC/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
 ...
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README further to include any additional information or instructions specific to your project.
