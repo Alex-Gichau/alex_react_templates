@@ -364,3 +364,59 @@ This repository contains a collection of React components for various web platfo
 ## Sidenav
 - **Project Link:** [Sidenav](https://www.instagram.com/p/C0EM6PiAi1P/?igshid=ODhhZWM5NmIwOQ==)
 - **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Interactive Card UI
+- **Project Link:** [Interactive Card UI](https://www.instagram.com/p/C0EfMNJgGZG/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Card Hover Effect
+- **Project Link:** [Card Hover Effect](https://www.instagram.com/p/C0NWnD5Bx8T/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Simple Timer UI
+- **Project Link:** [Simple Timer UI](https://www.instagram.com/p/C0NXeKAAjVL/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Social Media Buttons
+- **Project Link:** [Social Media Buttons](https://www.instagram.com/p/C0OlE3hF5H4/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Sliding Image Gallery
+- **Project Link:** [Sliding Image Gallery](https://www.instagram.com/p/C0WWgDzPH_s/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Navigation Bar with Icons
+- **Project Link:** [Navigation Bar with Icons](https://www.instagram.com/p/C0YauCqpsCv/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Notification Bell
+- **Project Link:** [Animated Notification Bell](https://www.instagram.com/p/C0Yb8qVF__e/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Testimonial Slider
+- **Project Link:** [Testimonial Slider](https://www.instagram.com/p/C0aIOs2DQet/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Checkbox
+- **Project Link:** [Animated Checkbox](https://www.instagram.com/p/C0Yb9kRqBJ2/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Contact Form
+- **Project Link:** [Contact Form](https://www.instagram.com/p/C0YcAQPlU6R/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Switch Button
+- **Project Link:** [Animated Switch Button](https://www.instagram.com/p/C0YdDXiLkSl/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## SVG Icons
+- **Project Link:** [SVG Icons](https://www.instagram.com/p/C0Qg5-kAAt9/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Subscribe Button
+- **Project Link:** [Animated Subscribe Button](https://www.instagram.com/p/C0YdJTYt4N5/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Parallax Effect
+- **Project Link:** [Parallax Effect](https://www.instagram.com/p/C0YdK9itMcg/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
