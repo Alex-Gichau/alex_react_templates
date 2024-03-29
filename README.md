@@ -205,4 +205,82 @@ This repository contains a collection of React components for various web platfo
 - **Project Link:** [Footer Social Media](https://www.instagram.com/p/CyGKSlfLdqC/?igshid=NjIwNzIyMDk2Mg==)
 - **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
-...
+## Frontend APIs to Try Out
+- **Project Link:** [Frontend APIs to Try Out](https://www.instagram.com/p/CyYRP17t5T_/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Horizontal Loading Animation
+- **Project Link:** [Horizontal Loading Animation](https://www.instagram.com/reel/CyauV45hLSS/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Website Portfolio
+- **Project Link:** [Website Portfolio](https://www.instagram.com/reel/CwmRMidrYBS/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Loaders and Spinners
+- **Project Link:** [Loaders and Spinners](https://www.instagram.com/reel/CwkpVZwP-En/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Analog Clock
+- **Project Link:** [Analog Clock](https://www.instagram.com/reel/CvKO2yGuQ_Y/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Frontend Tools
+- **Project Link:** [Frontend Tools](https://www.instagram.com/reel/CybUgGXtF0I/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Scroll Effect Top Navbar
+- **Project Link:** [Scroll Effect Top Navbar](https://www.instagram.com/p/CxnNHfOhCuF/?igsh=YjBhNHY1bTNpbzFr)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Notification as Title on the Bar
+- **Project Link:** [Notification as Title on the Bar](https://www.instagram.com/reel/Cx00nRTyDNS/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Navigation Bar for Account
+- **Project Link:** [Navigation Bar for Account](https://www.instagram.com/p/CykypcaAIhJ/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Hover Menu Underline Effect
+- **Project Link:** [Hover Menu Underline Effect](https://www.instagram.com/reel/CxLCX5uOjSE/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Boxy Preloaders
+- **Project Link:** [Boxy Preloaders](https://www.instagram.com/p/CyiwVBTtTG5/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Calculator App
+- **Project Link:** [Calculator App](https://www.instagram.com/reel/CvjfY47gnza/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## 3D Profile Card
+- **Project Link:** [3D Profile Card](https://www.instagram.com/reel/CwDEobrBtzw/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Upload Button
+- **Project Link:** [Upload Button](https://www.instagram.com/reel/Cs0zf8Wga9Z/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Toast Notification
+- **Project Link:** [Toast Notification](https://www.instagram.com/reel/Cssf2Yjgrbo/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Unsubscribe Button
+- **Project Link:** [Unsubscribe Button](https://www.instagram.com/reel/CsQCdhtABpy/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Snackbar Animation
+- **Project Link:** [Snackbar Animation](https://www.instagram.com/p/CwZk_HfAIXB/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Password Input
+- **Project Link:** [Password Input](https://www.instagram.com/p/CtbOxoSg90_/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Custom Cursor
+- **Project Link:** [Custom Cursor](https://www.instagram.com/reel/CtWDRt0gAWs/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Login Page
+- **Project Link:** [Login Page](https://www.instagram.com/p/CtThf38AQ9Q/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code
