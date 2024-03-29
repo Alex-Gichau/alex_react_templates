@@ -118,9 +118,22 @@ This repository contains a collection of React components for various web platfo
 - **Project Link:** [Glass Morphism Login Page](https://www.instagram.com/p/Cx77TPXvPYN/?igshid=NjIwNzIyMDk2Mg==)
 - **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
-...
+## CSS Tables with Details
+- **Project Link:** [CSS Tables with Details](https://www.instagram.com/p/CwhtbFNtJw1/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
----
+## Button Styles
+- **Project Link:** [Button Styles](https://www.instagram.com/reel/Cx8BZ-Ts3ES/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Scroll Sliders
+- **Project Link:** [Scroll Sliders](https://www.instagram.com/reel/Cx6xCThv1LO/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Swipers Image Sliders
+- **Project Link:** [Swipers Image Sliders](https://www.instagram.com/reel/Cxp5WduvP28/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
 
 You can continue the list in this format for each project, replacing the placeholders with the actual project details and links. Let me know if you need further assistance!
 
