@@ -283,4 +283,84 @@ This repository contains a collection of React components for various web platfo
 
 ## Login Page
 - **Project Link:** [Login Page](https://www.instagram.com/p/CtThf38AQ9Q/?igshid=NjIwNzIyMDk2Mg==)
-- **See Code
+- **See Code : 
+
+## Microsoft Home Page
+- **Project Link:** [Microsoft Home Page](https://www.instagram.com/p/Cyno44KPr4F/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## 9 Dots Menu
+- **Project Link:** [9 Dots Menu](https://www.instagram.com/reel/Cx2uLdavAut/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Avatars List
+- **Project Link:** [Avatars List](https://www.instagram.com/reel/CwxOChXPzpN/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Loading Animation Button
+- **Project Link:** [Loading Animation Button](https://www.instagram.com/reel/CxagBllrSMy/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Magic Cursor Dust
+- **Project Link:** [Magic Cursor Dust](https://www.instagram.com/reel/CvxCWhus4bc/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Expandable Sidebars
+- **Project Link:** [Expandable Sidebars](https://www.instagram.com/p/Cyv6LJWtls3/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Hacker Login UI
+- **Project Link:** [Hacker Login UI](https://www.instagram.com/reel/CyvW0vzvDse/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## HTML CSS Loader
+- **Project Link:** [HTML CSS Loader](https://www.instagram.com/reel/Cy0fNP6LeTr/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Table Design
+- **Project Link:** [Table Design](https://www.instagram.com/p/CyxiDQggjjZ/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Curved Sidebar
+- **Project Link:** [Animated Curved Sidebar](https://www.instagram.com/p/Cyw4Jd1y8qs/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Sliding Tab Animation
+- **Project Link:** [Sliding Tab Animation](https://www.instagram.com/p/Cy22fm3hBjx/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Grid Template for Entire Page
+- **Project Link:** [Grid Template for Entire Page](https://www.instagram.com/reel/CzD9Qqetcne/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## OTP Verification
+- **Project Link:** [OTP Verification](https://www.instagram.com/p/CzEDQbGP7aO/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Hover Effect Animation Card
+- **Project Link:** [Hover Effect Animation Card](https://www.instagram.com/p/CylB-M7NHOV/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Login Sign Up Form
+- **Project Link:** [Login Sign Up Form](https://www.instagram.com/p/Cy0tf4nPiqt/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Sidenav Bar
+- **Project Link:** [Sidenav Bar](https://www.instagram.com/reel/CvoWfLDtp67/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Captcha Code
+- **Project Link:** [Captcha Code](https://www.instagram.com/p/Cy8a2gsthXH/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Countdown Timer Code
+- **Project Link:** [Countdown Timer Code](https://www.instagram.com/p/CyYWkPLvJaK/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Profile Card Responsive
+- **Project Link:** [Profile Card Responsive](https://www.instagram.com/p/Cyia8zCPyDS/?igshid=MzRlODBiNWFlZA==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Sidenav
+- **Project Link:** [Sidenav](https://www.instagram.com/p/C0EM6PiAi1P/?igshid=ODhhZWM5NmIwOQ==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
