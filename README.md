@@ -134,8 +134,39 @@ This repository contains a collection of React components for various web platfo
 - **Project Link:** [Swipers Image Sliders](https://www.instagram.com/reel/Cxp5WduvP28/?igshid=NjIwNzIyMDk2Mg==)
 - **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
+## Gallery
+- **Project Link:** [Gallery](https://www.instagram.com/p/Ct8rEfBgPd4/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
 
-You can continue the list in this format for each project, replacing the placeholders with the actual project details and links. Let me know if you need further assistance!
+## Details Cards
+- **Project Link:** [Details Cards](https://www.instagram.com/p/CttGEa4AB94/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Animated Tool Bar
+- **Project Link:** [Animated Tool Bar](https://www.instagram.com/p/Cx55jaegLA-/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Glow Hover Effect
+- **Project Link:** [Glow Hover Effect](https://www.instagram.com/p/CwfGgU4No3M/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Typing Animation
+- **Project Link:** [Typing Animation](https://www.instagram.com/reel/Cx0NUmUP6-K/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Parallax Scrolling Effect
+- **Project Link:** [Parallax Scrolling Effect](https://www.instagram.com/p/CvjoBmxADas/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Responsive Footer
+- **Project Link:** [Responsive Footer](https://www.instagram.com/p/CtGqzW5gOuh/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+## Multistep Registration Form
+- **Project Link:** [Multistep Registration Form](https://www.instagram.com/reel/Cr3nrQptEd0/?igshid=NjIwNzIyMDk2Mg==)
+- **See Code:** [GitHub Repo](https://github.com/Alex-Gichau/alex-react-templates)
+
+...
 
 ## License
 
